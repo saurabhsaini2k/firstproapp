@@ -1,0 +1,8 @@
+{
+  "name": "fisrtproapp",
+  "app_id": "78378454",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
